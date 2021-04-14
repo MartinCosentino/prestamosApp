@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prestamosApp/static/css/main.22198d4d.chunk.css",
+    "main.js": "/prestamosApp/static/js/main.74c49d58.chunk.js",
+    "main.js.map": "/prestamosApp/static/js/main.74c49d58.chunk.js.map",
+    "runtime-main.js": "/prestamosApp/static/js/runtime-main.38a26128.js",
+    "runtime-main.js.map": "/prestamosApp/static/js/runtime-main.38a26128.js.map",
+    "static/js/2.ede15c37.chunk.js": "/prestamosApp/static/js/2.ede15c37.chunk.js",
+    "static/js/2.ede15c37.chunk.js.map": "/prestamosApp/static/js/2.ede15c37.chunk.js.map",
+    "index.html": "/prestamosApp/index.html",
+    "precache-manifest.ed7732754ba3bc240b6c7e58e1764408.js": "/prestamosApp/precache-manifest.ed7732754ba3bc240b6c7e58e1764408.js",
+    "service-worker.js": "/prestamosApp/service-worker.js",
+    "static/css/main.22198d4d.chunk.css.map": "/prestamosApp/static/css/main.22198d4d.chunk.css.map",
+    "static/js/2.ede15c37.chunk.js.LICENSE.txt": "/prestamosApp/static/js/2.ede15c37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a26128.js",
+    "static/js/2.ede15c37.chunk.js",
+    "static/css/main.22198d4d.chunk.css",
+    "static/js/main.74c49d58.chunk.js"
+  ]
+}
